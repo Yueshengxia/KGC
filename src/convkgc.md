@@ -9,7 +9,7 @@ Some Papers on Knowledge Graph Completion Based on Convolutional Neural Networks
 
 - <a name="GIRMSF"></a> **(GIRMSF)** Lin Lin, Shiwei Suo, Song Fu, Lizheng Zu, Sihao Zhang, Yikun Liu. "**GIRMSF-global information reconstruction and multi-scale feature sharpening framework for knowledge graph embedding**". **`Expert Systems With Applications 2026`**. [paper](https://doi.org/10.1016/j.eswa.2025.128923)
 
-- <a name="AdaCPN"></a> **(AdaCPN)** Zengcan Xue, Jiarui Chen, Xiaoyong Hu, Zirou Lin:. "**Exploring contextual and pairwise semantic-enhanced embeddingwith adaptive fusion for knowledge graph completion**". **`Information Processing & Management 2026`**. [paper](https://doi.org/10.1016/j.ipm.2026.104849)
+- <a name="AdaCPN"></a> **(AdaCPN)** Zengcan Xue, Jiarui Chen, Xiaoyong Hu, Zirou Lin:. "**Exploring contextual and pairwise semantic-enhanced embeddingwith adaptive fusion for knowledge graph completion**". **`Information Processing & Management 2026`**. [paper](https://doi.org/10.1016/j.ipm.2026.104849) [code](https://github.com/ZengcanXUE/AdaCPN)
 
 - <a name="HAKGE"></a> **(HAKGE)** Qien Yu, Danilo Vasconcellos Vargas. "**Knowledge graph embedding based on hybrid circular convolutional neural network and attention fusion mechanism for link prediction**". **`Neurocomputing 2026`**. [paper](https://doi.org/10.1016/j.neucom.2026.133403)
 
