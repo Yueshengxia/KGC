@@ -1,5 +1,8 @@
 # Multimodal Knowledge Graphs
 
+* [Survey](#survey)
+* [2026](#2026)
+
 # Survey
 
 # 2026 
