@@ -1,1 +1,0 @@
-# Multimodal Knowledge Graph Completion
