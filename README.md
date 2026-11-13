@@ -15,7 +15,7 @@ Thanks for your attention and kind words! I will update KGE later.
 
 ## Methods
 
-- [Multi-Modal Knowledge Graph](./src/mmkg.md)  
+- [MultiModal Knowledge Graph](./src/mmkg.md)  
 
 ## Papers
 
